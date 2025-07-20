@@ -4,9 +4,13 @@ They are 2 simple scripts in bash, which I used to study, their objective is sim
 Steps to use the script:
 
 1.Enter the text or output you want to encode:
+
 Example
-echo "Hello World" | ./ceruz.sh
+
+<img width="780" height="75" alt="s1" src="https://github.com/user-attachments/assets/3dc2fe4b-b9d1-4fcb-a337-9404465996f6" />
+
+
 
 2.To decode it is exactly the same, you take the text that is encoded with this same format of course and:
 
-echo (text string) | ./deceruz.sh
+<img width="1144" height="43" alt="s2" src="https://github.com/user-attachments/assets/74771c4f-a716-4270-9325-efa9c1e24f63" />
